@@ -1,1 +1,1 @@
-# savitnika.github.io
+# savitnika-design.github.io
